@@ -1,7 +1,7 @@
 # Fine-Grain Prediction of Strawberry Freshness using Subsurface Scattering
 
 ## Dataset
-Download the dataset [here](https://cmu.box.com/s/k8k1fz5i5x85hjj4g4oo6yaouo9oqu77).
+Download the dataset [here](https://drive.google.com/drive/folders/1KLjj2fYIxwAddzxLqTVpeDATl_716h60?usp=sharing).
 The post-processed captures are in processed/.
 
 ## Usage
